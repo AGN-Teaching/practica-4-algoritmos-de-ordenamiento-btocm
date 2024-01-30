@@ -7,7 +7,7 @@
 #include <cmath>
 
 #include "ordenamiento_t.h"
-#include "ordenamiento_rec_t_d.h"
+#include "ordenamiento_rec_t.h"
 
 using namespace std;
 using namespace std::chrono;
