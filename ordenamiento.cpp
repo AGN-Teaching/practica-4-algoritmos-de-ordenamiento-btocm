@@ -66,8 +66,7 @@ duration<double> ordenar_quicksort(int *A, int TAM_ARREGLO) {
 
 int *copiar_arreglo(int A[], int n) {
     int *aux = new int[n];
-    for (int i = 0; i < n; i++)
-    {
+    for (int i = 0; i < n; i++) {
         aux[i] = A[i];
     }
     return aux;
@@ -106,7 +105,6 @@ double calcularPromedio(double tiempos[], int numRepeticiones) {
     for (int i = 0; i < numRepeticiones; ++i) { // Calcular la suma de todos los tiempos en el arreglo.
         suma += tiempos[i];
     }
-
     return suma / numRepeticiones;  // Calcular el promedio dividiendo la suma total por el número de repeticione.
 }
 
