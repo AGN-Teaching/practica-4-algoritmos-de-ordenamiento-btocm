@@ -2,6 +2,8 @@
 # Resultados:
 ![promedios_t.png](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-btocm/blob/main/promedios_t.png)
 ![promedios_g.png](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-btocm/blob/main/promedios_g.png)
+![ds.png](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-btocm/blob/main/ds.png)
+![ds_g.png](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-btocm/blob/main/ds_g.png)
 
 # Analisis:
 <p>Para tamaños pequeños de arreglos como n = 5, 10, 50, 100. Con esto podemos notar el efecto del tamaño en el arreglo, lo cual se observa que el tiempo de ejecución de los algoritmos Insertion sort, Selection sort y Bubblesort, aumenta a medida que el tamaño del arreglo va aumentando. Mientras que Merge sort y Quicksort siguen siendo los más eficientes, especialmente para tamaños de arreglo más grandes.</p>
