@@ -7,4 +7,4 @@
 Por último podemos notar que con los arreglos más grandes no pudimos obtener los resultados.
 
 # Conclusión:
-Los resultados resaltan la importancia de elegir el algoritmo de ordenamiento adecuado según el tamaño del arreglo y la eficiencia requerida. Los algoritmos más avanzados como Merge sort y Quicksort son preferibles para conjuntos de datos grandes, mientras que los otros algoritmos pueden ser suficientes para tamaños pequeños.
+Los resultados resaltan la importancia de elegir el algoritmo de ordenamiento adecuado según el tamaño del arreglo y la eficiencia requerida. Los algoritmos más avanzados como Merge sort y Quicksort son preferibles para arreglos grandes, mientras que los otros algoritmos pueden ser suficientes para tamaños pequeños.
