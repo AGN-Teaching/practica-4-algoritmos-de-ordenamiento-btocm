@@ -13,6 +13,9 @@
 <p>A medida que el tamaño del arreglo aumenta, las diferencias entre los algoritmos se vuelven más evidentes. Merge sort y Quicksort mantienen tiempos de ejecución bajos en comparación con los otros algoritmos. Insertion sort, Selection sort y Bubblesort experimentan un aumento en el tiempo de ejecución a medida que n crece, lo que demuestra su ineficiencia para arreglos grandes.</p>
 
 <p>Al ver los resultamos podemos notar algunos casos particulares:</p>
-<p>-  Para arreglos pequeños, la elección del algoritmo puede no ser crítica, ya que los tiempos de ejecución son relativamente bajos y similares entre los algoritmos.</p>
+- Para arreglos pequeños, la elección del algoritmo puede no ser crítica, ya que los tiempos de ejecución son relativamente bajos y similares entre los algoritmos.
+
+
+
 # Conclusión:
 Los resultados resaltan la importancia de elegir el algoritmo de ordenamiento adecuado según el tamaño del arreglo y la eficiencia requerida. Los algoritmos más avanzados como Merge sort y Quicksort son preferibles para arreglos grandes, mientras que los otros algoritmos pueden ser suficientes para tamaños pequeños.
